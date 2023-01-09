@@ -18,7 +18,7 @@ Fork this repository then clone your fork to your local machine.
 git clone https://github.com/<YOUR_GITHUB_USERNAME>/starter-national-parks.git
 ```
 
-Navigate to the folder containing the repository and start a local server. For example you may use _lite-server_.
+Navigate to the folder containing the repository and start a local server. For example, you may use _lite-server_.
 
 ```bash
 npx lite-server
@@ -26,7 +26,7 @@ npx lite-server
 
 > **lite-server** is a lightweight _development only_ node server that serves a web app, opens it in the browser, and refreshes when html or javascript changes occur.
 
-Open the code in your favourite editor. For instance, to open VSCode:
+Open the code in your favorite editor. For instance, to open VSCode:
 
 ```bash
 code .
